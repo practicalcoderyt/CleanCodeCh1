@@ -1,6 +1,6 @@
 """This is a very poor choice of a variable name. We have no idea what this variable is unless we go to where it is initialized. This is NOT clean code."""
 d = 0 # elapsed time in days
-
+ 
 """These examples are clean examples of what we can use instead."""
 elapsed_time_in_days = 0
 days_since_creation = 0
